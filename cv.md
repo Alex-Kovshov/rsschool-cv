@@ -29,3 +29,9 @@ then master the react framework and develop web applications on it.**
   * [RunSmart]( https://alex-kovshov.github.io/puls/)
 
    ---
+   
+### contacts:
+_email: Kovshov1982@mail.ru_
+_phone: 89144437464_
+_discord: Alex-Kovshov_
+_github: https://github.com/Alex-Kovshov_
