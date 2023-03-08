@@ -15,13 +15,13 @@ then master the react framework and develop web applications on it.**
 
 
 #### skills:
-   * Html5 
-   * Css3 (sass/scss)
-   * Flex-box, grid-css
-   * БЭМ
-   * Base js
-   * Gulp
-   * Git
+ 1. Html5 
+ 2. Css3 (sass/scss)
+ 3. Flex-box, grid-css
+ 4. БЭМ
+ 5. Base js
+ 6. Gulp
+ 7. Git
 
 #### examples of my work:
   * [Logistic]( https://alex-kovshov.github.io/logistic/)
@@ -31,7 +31,10 @@ then master the react framework and develop web applications on it.**
    ---
    
 ### contacts:
-_email: Kovshov1982@mail.ru_
-_phone: 89144437464_
-_discord: Alex-Kovshov_
-_github: https://github.com/Alex-Kovshov_
+ _email: Kovshov1982@mail.ru_
+
+ _phone: 89144437464_
+
+ _discord: Alex-Kovshov_
+
+ _github: https://github.com/Alex-Kovshov_
