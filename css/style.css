@@ -1,0 +1,126 @@
+body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: #24292e;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* header */
+
+.header{
+    padding: 2rem 0;
+    border-bottom: 4px solid #eaecef;
+}
+
+.header__title h1{
+    font-family: inherit;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eaecef;
+    color: #24292e;
+}
+
+
+/* about */
+
+.about{
+    padding-top: 1rem;
+}
+
+.about__title h2{
+    font-size: 20px;
+    font-family: inherit;
+    color: #24292e;
+}
+
+.about__description{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+    
+    color: #24292e;
+}
+.certificat{
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.task{
+    color: #0366d6;
+    text-decoration: none;
+}
+
+
+/* skills */
+
+.skills{
+    font-size: 16px;
+    padding-top: 1rem;
+}
+
+.skills__title h3{
+    font-size: 16px;
+}
+
+.skills__item{
+    line-height: 1.8;
+}
+
+/* works */
+
+.works__item a{
+    color: #0366d6;
+    line-height: 1.8;
+    text-decoration: none;
+}
+
+
+/* contacts */
+
+.contacts {
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:start;
+    padding-bottom: 2rem;
+    border-top: 4px solid #eaecef;
+}
+
+.contacts__title h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin:  1rem 0 ;
+}
+
+.contacts__email a{
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.contacts__phone a{
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.contacts__github a{
+    color: #0366d6;
+    text-decoration: none;
+}
